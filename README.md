@@ -9,7 +9,7 @@ The **Diabetes Predictor** is a machine learning project that aims to predict wh
 - Data preprocessing and cleaning
 - Exploratory data analysis (EDA)
 - Model training and evaluation
-- Predictions and results visualization
+- Predictions and results visualization.
 
 ## Dataset
 
